@@ -7,7 +7,7 @@ Topics covered: Optimisation, Model fitting, Model comparison, Signal Detection 
 
 All tutorials include solutions (just run the cells with the `hide_toggle(for_next=True)` code using **'Shift + Enter'**, and click on the link `Show\hide Solution below`)
 
-If Github notebook viewer does not load/display the iPython notebooks correctly, click on the links below such that the notebooks open in notebookviewer website instead of github.
+If Github notebook viewer does not load/display the iPython notebooks correctly, click on the links below such that the notebooks open in the notebookviewer website rather than on github.
 
 * Tutorial 1: Signal detection theory, drift diffusion modelling
 
