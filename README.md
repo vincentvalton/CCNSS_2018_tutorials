@@ -5,7 +5,7 @@ Python teaching material and tutorials for 40+ Ph.D. students (approx. 16+ hours
 
 Topics covered: Optimisation, Model fitting, Model comparison, Signal Detection Theory, Drift Diffusion Modelling, Bayesian models of cognition, Computational Psychiatry, etc.
 
-All tutorials include solutions (just run the cells with the `hide_toggle(for_next=True)` code, and click on the link `Show\hide Solution below`)
+All tutorials include solutions (just run the cells with the `hide_toggle(for_next=True)` code using **'Shift + Enter'**, and click on the link `Show\hide Solution below`)
 
 Sometimes the notebook viewer does not load the iPython notebooks in GitHub, if so, click on the links below such that the notebooks open in notebookviewer instead.
 
